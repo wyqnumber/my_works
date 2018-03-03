@@ -1,3 +1,3 @@
 # my_works
 
-![sdfsd](/Users/yixiaohui/Desktop/1.png)
+![sdfsd](file:///Users/yixiaohui/Desktop/1.png)
