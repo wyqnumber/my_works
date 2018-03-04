@@ -1,3 +1,3 @@
 # my_works
 
-![sdfsd](file:///Users/yixiaohui/Desktop/1.png)
+![sdfsd](https://github.com/wyqnumber/my_works/blob/master/images/1_dash_github.png)
